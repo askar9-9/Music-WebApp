@@ -1,7 +1,5 @@
 # Music-WebApp
 
-##   
-Документация по веб-приложению Music-WebApp
 
 **Описание:**
 
@@ -18,13 +16,13 @@ pip install pipenv
 2. **Перейдите в папку проекта:**
 
 ```
-cd Music-WebApp
+cd MusicApp
 ```
 
 3. **Создайте виртуальную среду и активируйте ее:**
 
 ```
-pipenv install --dev
+pipenv install
 pipenv shell
 ```
 
